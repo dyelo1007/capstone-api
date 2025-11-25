@@ -6,3 +6,5 @@ pypdf2
 python-multipart
 gunicorn
 flask
+flask-cors
+
